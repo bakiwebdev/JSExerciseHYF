@@ -1,0 +1,5 @@
+Exercise 
+1. Create HTML and JS files
+2. Import axios to your HTML
+3. Use axios to get the current information
+4. Display On the HTML page the current temperature

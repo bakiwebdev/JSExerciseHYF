@@ -1,0 +1,10 @@
+Exercise 2
+
+1. Have getWeather Function to get the weather
+2. Create a text input and a button in your HTML . give an ID
+3. Attach onClick event on the button and let it call getWeather with 
+the city in the input text
+4. on error, show a red error on the screen instead of consol.log
+
+
+Extra: show"loading..." message when the request is not done yet 

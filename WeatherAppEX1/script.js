@@ -7,7 +7,7 @@ const printTextOnHTMLFile = function (text) {
 };
 
 const weatherAPIUrl =
-  "http://api.openweathermap.org/data/2.5/weather?q=Groningen&appid={your token}&units=metric";
+  "http://api.openweathermap.org/data/2.5/weather?q=Groningen&appid={your token}&units=metric"; 
 
 // Make a request for a user with a given ID
 axios.get(weatherAPIUrl)

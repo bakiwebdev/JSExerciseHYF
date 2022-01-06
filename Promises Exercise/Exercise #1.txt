@@ -1,0 +1,6 @@
+Exercise #1
+* Create new HTML and JS files
+* Add the fetchJson function to your code
+* Using fetchJson, call random User API Twice one after another.
+ -> Console.log the email of random person
+ -> Make sure todo the second request only after the first one succeeded.

@@ -1,0 +1,6 @@
+Exercise #4
+
+* Call random user API twice in parallel (promises.all)
+* If both users are females: 
+	- Make another two API request in serial!
+* otherwise, do nothing

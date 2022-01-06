@@ -1,0 +1,7 @@
+Exercise #2
+
+* Add axios and script.js to your workspace
+* Make HTTP call to get random person with axios.
+	- If the person is a male, make another request. (with promis chaining)
+	- Otherwise do nothing
+* Handle errors 

@@ -17,14 +17,6 @@ function fetchJson(url, callback) {
   xhr.send();
 }
 
-// fetchJson('https://randomuser.me/api',(error, response) => {
-//     if (error) {
-//         console.log(error);
-//     } else {
-//         console.log(response);
-//     }
-// })
-
 function fetchJsonSynchronous() {
   let timesExecuted = 0;
   const randomApi = "https://randomuser.me/api";
@@ -46,4 +38,3 @@ function fetchJsonSynchronous() {
 }
 
 fetchJsonSynchronous();
-// const fetchApi = fetchJsonSynchronous();

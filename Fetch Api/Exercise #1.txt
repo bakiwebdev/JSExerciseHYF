@@ -1,0 +1,6 @@
+Exercise #1
+
+Create a function called `searchShow(query)`
+The function will use the fetch API to search tvmaze API for the query.
+The URL for the API is: http://api.tvmaze.com/search/shows?q=SEARCH_QUERY
+The function then will print the response JSON with console.log

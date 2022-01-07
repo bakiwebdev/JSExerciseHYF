@@ -1,0 +1,6 @@
+Exercise #3
+
+* Add setTimeout to reduce the number of http requests
+* Add error handling
+* Add a picture next to the show name
+* Add a "loading" indicator when fetching results

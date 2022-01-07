@@ -1,0 +1,8 @@
+Exercise #2
+
+1) Add a text input to your document
+2) Attach 'keyup' event to the text input and call searchShow with the input.
+3) Convert the result json to a string array using `map`
+4) Display the string results on the page below the text input.
+
+BONUS: make the results as a clickable links that go to the show's page.

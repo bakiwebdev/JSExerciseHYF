@@ -1,0 +1,5 @@
+Exercise #1 
+
+* Create async function that fetches two numbers from random.org
+* Return the sum of those numbers
+* All this function and console.log the result
